@@ -1,3 +1,6 @@
+# DO NOT DELETE 
+This repo showcases the examples of a Typescript react app with SOLID principles
+
 # React S.O.L.I.D Principles for writing clean-code
 
 ![SOLID Principles](/src/assets/solid-principles.png)
